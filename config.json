@@ -1,0 +1,14 @@
+{
+  "nlp": "disabled",
+  "modules": [
+    {
+      "name": "Calendar",
+      "id": "calendar",
+      "status": "enabled",
+      "module_path": "*/modules/calendar",
+      "settings": {
+        "__editor_note__": "Used for any module-specific settings"
+      }
+    }
+  ]
+}
